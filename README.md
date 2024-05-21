@@ -8,7 +8,7 @@ Kampus Merdeka - Data Academy
 
 ## Overview
 Proyek akhir adalah melakukan prediksi klasifikasi customer yang loyal. Dalam memprediksi, digunakan perbandingan 9 model guna mendapatkan akurasi terbaik. 
-Setelah itu, dipilih 4 akurasi terbaik untuk dilakukan hyperparameter.
+Setelah itu, dipilih 4 akurasi terbaik untuk dilakukan hyperparameter. Kesimpulan akhir, didapatkan bahwa Extreme Gradient Boosting Classifier memiliki akurasi terbaik.
 
 ## Project Outline
 1. Data Preprocessing
