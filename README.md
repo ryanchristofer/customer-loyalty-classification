@@ -2,7 +2,9 @@
 Predictive Analytics for Customer Loyalty Classification using Extreme Gradient Boosting Classifier.
 
 Kampus Merdeka - Data Academy
-![Kampus Merdeka](/Kampus Merdeka.png) ![Data Academy](/Data Academy.png)
+
+![Kampus Merdeka](/KampusMerdeka.png)
+![Data Academy](/DataAcademy.png)
 
 ## Overview
 Proyek akhir adalah melakukan prediksi klasifikasi customer yang loyal. Dalam memprediksi, digunakan perbandingan 9 model guna mendapatkan akurasi terbaik. 
